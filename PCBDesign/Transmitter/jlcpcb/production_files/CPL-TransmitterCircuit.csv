@@ -1,0 +1,12 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,0.1uF,C_0805_2012Metric,109.6,-61.0,0.0,top
+C2,0.1uF,C_0805_2012Metric,109.6,-63.0,180.0,top
+C3,22pF,C_0805_2012Metric,92.0,-54.8,0.0,top
+C4,22pF,C_0805_2012Metric,92.0,-71.6,180.0,top
+C5,0.1uF,C_0805_2012Metric,109.6,-65.0,0.0,top
+J1,AVR-ISP-6,PinHeader_2x03_P2.54mm_Vertical,104.33,-76.4,0.0,top
+J3,10118194-0001LF,AMPHENOL_10118194-0001LF,101.0,-53.485,180.0,top
+J4,Conn_01x04_Socket,PinSocket_1x04_P2.54mm_Vertical,98.2,-76.67,0.0,top
+R1,10k,R_0805_2012Metric,92.0,-75.2,0.0,top
+U1,ATmega328P-A,TQFP-32_7x7mm_P0.8mm,101.2,-64.4,0.0,top
+Y1,16 MHz,Crystal_HC49-U_Vertical,90.8,-63.21,90.0,top
